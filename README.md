@@ -320,8 +320,4 @@ community.
 * [_DatahubIO_](https://datahub.io/) Datahub provides important, commonly-used data as high quality, easy-to-use and 
 open data packages.
 
-# My personal preferences to learn python
-
-* code combat [_Link_] (https://codecombat.com/)
-* coding challenge [_Link_] (hackerrank.com/)
-* open course ware [_MIT_] (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
